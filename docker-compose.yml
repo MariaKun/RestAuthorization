@@ -1,0 +1,5 @@
+services:
+  app1:
+    image: 'myapp:5.0'
+    ports:
+      - '8080'
